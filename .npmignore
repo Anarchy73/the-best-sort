@@ -1,0 +1,16 @@
+src/
+dist/*.test.*
+dist/*.spec.*
+dist/*.map
+.git/
+.gitignore
+.github/
+node_modules/
+*.md
+LICENSE
+tsconfig.json
+tsconfig.build.json
+.eslintrc
+.prettierrc
+.editorconfig
+
