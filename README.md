@@ -4,7 +4,7 @@ A comprehensive AI-friendly TypeScript library for array sorting and asynchronou
 
 ## Overview
 
-The Best Sort is a production ready framework that demonstrates the application of multiple OOP design patterns, architectural principles, and advanced TypeScript features to visualize array element processing. The library implements a most powerful sort strategy.
+The Best Sort is a production ready framework that demonstrates the application of multiple OOP design patterns, architectural principles, and advanced TypeScript features to visualize array element processing. The library implements the most powerful sort strategy.
 
 ## Installation
 
